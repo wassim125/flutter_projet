@@ -1,0 +1,20 @@
+{
+  "play_quiz": "ابدأ الاختبار",
+  "choose_language": "اختر اللغة",
+  "start_quiz": "ابدأ الاختبار",
+  "enter_number_of_questions": "أدخل عدد الأسئلة",
+  "select_category": "اختر الفئة:",
+  "select_difficulty": "اختر الصعوبة:",
+  "select_type": "اختر النوع:",
+  "select_encoding": "اختر الترميز:",
+  "easy": "سهل",
+  "medium": "متوسط",
+  "hard": "صعب",
+  "multiple": "اختيارات متعددة",
+  "boolean": "صواب/خطأ",
+  "error_loading_categories": "فشل تحميل الفئات",
+  "error_loading_questions": "فشل تحميل الأسئلة",
+  "error_fill_all_fields": "يرجى ملء جميع الحقول",
+  "dark_mode": "الوضع المظلم",
+  "light_mode": "الوضع الفاتح"
+}

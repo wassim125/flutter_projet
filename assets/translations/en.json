@@ -1,0 +1,20 @@
+{
+  "play_quiz": "Play Quiz",
+  "choose_language": "Choose Language",
+  "start_quiz": "Start Quiz",
+  "enter_number_of_questions": "Enter number of questions",
+  "select_category": "Select Category:",
+  "select_difficulty": "Select Difficulty:",
+  "select_type": "Select Type:",
+  "select_encoding": "Select Encoding:",
+  "easy": "Easy",
+  "medium": "Medium",
+  "hard": "Hard",
+  "multiple": "Multiple",
+  "boolean": "Boolean",
+  "error_loading_categories": "Failed to load categories",
+  "error_loading_questions": "Failed to load questions",
+  "error_fill_all_fields": "Please fill in all fields",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode"
+}

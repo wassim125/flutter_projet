@@ -1,0 +1,20 @@
+{
+  "play_quiz": "Jouer au Quiz",
+  "choose_language": "Choisir la Langue",
+  "start_quiz": "Commencer le Quiz",
+  "enter_number_of_questions": "Entrez le nombre de questions",
+  "select_category": "Sélectionnez la catégorie:",
+  "select_difficulty": "Sélectionnez la difficulté:",
+  "select_type": "Sélectionnez le type:",
+  "select_encoding": "Sélectionnez l'encodage:",
+  "easy": "Facile",
+  "medium": "Moyenne",
+  "hard": "Difficile",
+  "multiple": "Multiple",
+  "boolean": "Vrai/Faux",
+  "error_loading_categories": "Échec du chargement des catégories",
+  "error_loading_questions": "Échec du chargement des questions",
+  "error_fill_all_fields": "Veuillez remplir tous les champs",
+  "dark_mode": "Mode Sombre",
+  "light_mode": "Mode Clair"
+}
